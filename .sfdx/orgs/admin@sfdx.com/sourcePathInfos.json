@@ -1,0 +1,122 @@
+[
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390719943,
+            "changeTime": 1550390719943,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390719945,
+            "changeTime": 1550390719945,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390837054,
+            "changeTime": 1550390837054,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390719946,
+            "changeTime": 1550390719946,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390875236,
+            "changeTime": 1550390875236,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 182,
+            "modifiedTime": 1550390886817,
+            "changeTime": 1550390886817,
+            "contentHash": "734dc6d431b63d86c23177f5fe68fb40396c3350",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1550390875237,
+            "changeTime": 1550390875237,
+            "contentHash": "02c1ba89ec2301879da4df59a69dc5111c8837d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\a613766\\Desktop\\VSCodeQuickstart",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1550390735274,
+            "changeTime": 1550390735274,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
