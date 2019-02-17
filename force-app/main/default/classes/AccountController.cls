@@ -1,5 +1,5 @@
 public with sharing class AccountController {
-  // mockqa code
+  // mockqa code - now updated in dev
   public static List<Account> getAllActiveAccounts() {
     return [SELECT Id,Name,Active__c FROM Account WHERE Active__c = 'Yes'];
   }
